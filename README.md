@@ -1,4 +1,6 @@
 # api
+NOTE: This repository is no longer updated, all relevant code is moved to INTEGRATION
+
 The api repository is a REST client used by our webapp to access the information in the database.
 
 NOTE: In the future, the integration file will deal with the api and generating the database files.
